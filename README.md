@@ -24,3 +24,5 @@ The following algorithms/use-cases are implemented to date:
 19. Time-Series Modelling with ARIMA
 20. Understanding Tokenizers & implementing Byte-Pair Encoding (BPE)
 21. Implementing UNet from scratch
+
+Data Sources: Google
