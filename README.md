@@ -24,5 +24,8 @@ The following algorithms/use-cases are implemented to date:
 19. Time-Series Modelling with ARIMA
 20. Understanding Tokenizers & implementing Byte-Pair Encoding (BPE)
 21. Implementing UNet from scratch
+22. Image Similarity on MNIST using Contrastive Learning
+23. Factorization Machines from scratch
+24. Implementing RankNet - Learning To Rank (LTR) using Gradient Descent
 
 Data Sources: Google
