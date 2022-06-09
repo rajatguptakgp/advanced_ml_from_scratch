@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset = UTF-8>
+    <title>Iris Prediction</title>
+    <style>
+      h1 {text-align: center;}
+      h4 {text-align: center;}
+    </style>  
+  </head>
+
+  <body>
+    <div class = login>
+      <h1>Iris Prediction</h1>
+
+      <form action = predict method = post>
+        <h4><b>{{ prediction_text }}</b></h4>
+        <br>
+        Sepal Length:&emsp;<input type = number name = sepallength step = any required = required value = 4.5/>
+        <br>
+        Sepal Width:&emsp;&ensp;<input type = number name = sepalwidth step = any required = required value = 3.1/>
+        <br>
+        Petal Length: &emsp;<input type = number name = petallength step = any required = required value = 1.2/>
+        <br>
+        Petal Width: &emsp;&ensp;<input type = number name = petalwidth step = any required = required value = 0.1/>
+        <br>
+        <button type = submit class = "btn btn-primary btn-block btn-large">Predict</button>
+      </form>
+
+    </div>
+  </body>
+</html>
