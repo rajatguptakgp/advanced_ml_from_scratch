@@ -27,5 +27,6 @@ The following algorithms/use-cases are implemented to date:
 22. Image Similarity on MNIST using Contrastive Learning
 23. Factorization Machines from scratch
 24. Implementing RankNet - Learning To Rank (LTR) using Gradient Descent
+25. Probabilistic interpretation of AUC and MAUC (Multi-Class AUC)
 
 Data Sources: Google
